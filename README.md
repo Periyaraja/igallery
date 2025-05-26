@@ -143,7 +143,7 @@ Publish the website in the given URL.
 </script>
 <footer>
     <h1> DESIGNED AND DEVELOPED BY</h1>
-    <h2>MANOJKUMAR.K</h2>
+    <h2>P.M.Periyaraja</h2>
 </footer>
 
 </html>
